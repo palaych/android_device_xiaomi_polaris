@@ -110,3 +110,4 @@ TW_USE_TOOLBOX := true
 TW_HAS_EDL_MODE := true
 PLATFORM_VERSION := 10.0.0
 TW_DEVICE_VERSION := $(shell date -u +"%Y%m%d")
+TW_EXCLUDE_TWRPAPP := true
