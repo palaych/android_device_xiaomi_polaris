@@ -16,3 +16,7 @@
 
 PRODUCT_MAKEFILES := $(LOCAL_DIR)/omni_polaris.mk
 
+COMMON_LUNCH_CHOICES := \
+    omni_polaris-eng \
+    omni_polaris-user \
+    omni_polaris-userdebug
